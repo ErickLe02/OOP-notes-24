@@ -1,0 +1,14 @@
+The characteristics
+Compatibility
+Fault tolerance
+Reliability
+Usability
+Performance
+Scalability
+Robustness
+Extensibility
+Modularity
+Maintainability
+Reusability
+Security
+Portability
